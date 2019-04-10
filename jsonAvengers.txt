@@ -1,0 +1,8 @@
+"27 abril"
+"Avengers: Endgame (EUA, 2019)"
+	Hora: "12:00 PM"
+	Hora: "01:50 PM"
+	Hora: "04:00 PM"
+	Hora: "05:50 PM"
+	Hora: "08:00 PM"
+	Hora: "09:40 PM"
